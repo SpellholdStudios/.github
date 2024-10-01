@@ -1,20 +1,13 @@
-<h2 align="center">Welcome at Spellhold Studios! 👋</h2>
+## SHS Moves to a New GitHub Organization
 
-<div align="center"><a href="http://www.shsforums.net/"><img src="https://raw.githubusercontent.com/SpellholdStudios/.github/main/profile/shs-bg-top-tile.png"></a></div>
+Spellhold Studios will be changing its GitHub account. The owner of the previous (i.e. this) organization and a prolific IE modder, Gwendolyne, disappeared suddenly in 2022, unfortunately without appointing a successor who could effectively maintain our modding projects here. Sadly, all attempts to contact Gwendolyne or restore full access through GitHub Support have been to no avail, which is why we have decided to create a new account.
 
-## 
+All SHS mods will be gradually transferred to the new organization, which will be maintained by trusted, friendly, and open-minded Staff members. We recognize this as an initial inconvenience to Modders, but we hope our efforts put into preserving the community's legacy make up for it.
 
-Spellhold Studios (SHS) is a community committed to creating mods for different Computer Role Playing Games (CRPGs), including Baldur's Gate II and other games using the Infinity Engine, The Elder Scrolls: Oblivion, and Neverwinter Nights 1 (the Aurora Engine).
+The new organization is available at: [github.com/Spellhold-Studios](https://github.com/Spellhold-Studios)
 
-On a more technical note, the community is developing mods for Baldur's Gate and hosting them both at our <a href="http://www.shsforums.net/files/">official Download Center</a> and here. Don't hesitate to <a href="http://www.shsforums.net/">join us</a> and contribute to these works which allow other players to benefit from a new look on the game!
+A complementary [Index of Mods](https://spellhold-studios.github.io/) will be updated with links and descriptions.
 
-<!--
+To help our members and visitors reach us more easily, we have also enabled two communication channels: [SHS Discord server](https://discord.gg/pE2Njbdb2a) and [GitHub Discussions](https://github.com/orgs/Spellhold-Studios/discussions).
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We hope to see you there!
