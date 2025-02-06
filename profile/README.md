@@ -1,4 +1,4 @@
-## SHS Moved to a New GitHub Organization
+## :warning: SHS Moved to a New GitHub Organization
 
 Spellhold Studios has changed its GitHub account. The owner of the previous (i.e. this) organization and a prolific IE modder, Gwendolyne, disappeared suddenly in 2022, unfortunately without appointing a successor who could effectively maintain our modding projects here. Sadly, all attempts to contact Gwendolyne or restore full access through GitHub Support have been to no avail, which is why we have decided to create a new account.
 
